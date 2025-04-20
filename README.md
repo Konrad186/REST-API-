@@ -1,5 +1,5 @@
 # REST API z regułą decyzyjną
-Projekt REST API wykonany w Flask w ramach Lab2.
+Projekt REST API wykonany w Flask
 
 W repozytorium znajdują się pliki:
 - app.py – główny plik z aplikacją
