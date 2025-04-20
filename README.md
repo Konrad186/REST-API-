@@ -23,5 +23,5 @@ Plik Lab2.ipynb zawiera testy wszystkich endpointów API przy użyciu biblioteki
 Dostępne endpointy:
 - / → zwraca "Witaj w moim API!"
 - /mojastrona → zwraca "To jest moja strona!"
-- /hello?name=Ola → zwraca "Hello Ola!" lub "Hello!" bez parametru
+- /hello?name=Konrad → zwraca "Hello Konrad!" lub "Hello!" bez parametru
 - /api/v1.0/predict?num1=3&num2=4 → zwraca JSON z predykcją, np. {"prediction": 1, "features": {"num1": 3.0, "num2": 4.0}}
