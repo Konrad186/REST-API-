@@ -1,6 +1,4 @@
-# REST-API-
-# Flask API – Laboratorium 2
-
+# REST API z regułą decyzyjną
 Projekt REST API wykonany w Flask w ramach Lab2.
 
 Pliki:
